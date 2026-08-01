@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
