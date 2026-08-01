@@ -6,9 +6,9 @@ class Solution {
                 return true;
             }
 
-            else {
+            
                 set.add(nums[i]);
-            }
+            
         }
 
         return false;
