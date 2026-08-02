@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +48,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0217-contains-duplicate) |
+| [1748-sum-of-unique-elements](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/1748-sum-of-unique-elements) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
