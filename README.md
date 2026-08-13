@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/1748-sum-of-unique-elements) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/1748-sum-of-unique-elements) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
