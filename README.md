@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0035-search-insert-position) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/0217-contains-duplicate) |
 | [1748-sum-of-unique-elements](https://github.com/vishalvaibhav2755-afk/github.com-vishalvaibhav2755-afk-DSA/tree/master/1748-sum-of-unique-elements) |
 ## Counting
